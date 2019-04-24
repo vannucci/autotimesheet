@@ -1,0 +1,10 @@
+{
+    "employees": [
+        {
+        "username": "",
+        "password": "",
+        "commands": ["dd","ssss","dd"],
+        "timesheet": "ssss,dd,dd,dd,dd,dd,,,"
+        }
+    ]
+}
